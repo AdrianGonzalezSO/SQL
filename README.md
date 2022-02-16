@@ -1,2 +1,2 @@
 # SQL
-SQL exercises
+SQL exercises from codecademy exercises
